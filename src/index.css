@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Montserrat:wght@500;700&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+	--color-body-primary: #f2eae2;
+	--color-dark-primary: #1c232b;
+	--color-grey-primary: #6c7289;
+	--color-green-primary: #3d8168;
+	--color-state-primary: #1a4032;
+
+	--font-montserrat: "Montserrat", sans-serif;
+	--font-fraunces: "Fraunces", serif;
+}
